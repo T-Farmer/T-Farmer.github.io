@@ -28,14 +28,22 @@ body {
 	background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-460346.jpg);
 	}
 
-h3	{
-	letter-spacing: .5em;
-	text-align: center;
+ul {
+	list-style-type: none;
+	margin-left: 18%;
 }
 
-.h3-style	{
+li {
+	float: left;
 	color: white;
+	font-family: "Trebuchet MS";
+	font-size: large;
+	letter-spacing: .25em;
+	padding-left: .5em;
+	padding-bottom: 0;
+	padding-right: 5%;
 }
+
 
 p {
 	text-indent: 2em;
@@ -43,6 +51,6 @@ p {
 	text-align: justify;
 	font-family: "Trebuchet MS";
 	font-size: large;
-	padding-top: 2em;
+	padding-top: 4em;
 	color: white;
 }
