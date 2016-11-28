@@ -9,11 +9,17 @@
 
 .profilePic	{
 	width: 200px;
-	float: center;
+	display: inline;
 }
 
 h1 {
 	color: white;
+}
+
+.h1-style	{
+	color: white;
+	letter-spacing: .25em;
+	text-align: center;
 }
 
 body {
@@ -23,6 +29,10 @@ body {
 h3	{
 	letter-spacing: .5em;
 	text-align: center;
+}
+
+.h3-style	{
+	color: white;
 }
 
 p {
