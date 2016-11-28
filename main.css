@@ -1,17 +1,28 @@
 .main-container {
-	padding: 3em;
+	padding: 2em;
 }
 
-header {
+.header-div {
+	display: inline;
+	letter-spacing: .5em;
+}
+
+.profilePic	{
+	width: 200px;
+	float: center;
+}
+
+h1 {
+	color: white;
+}
+
+body {
+	background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-460346.jpg);
+	}
+
+h3	{
+	letter-spacing: .5em;
 	text-align: center;
-}
-
-.my-pic	{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding-top: 2em;
-	padding-bottom: 2em;
 }
 
 p {
@@ -20,4 +31,6 @@ p {
 	text-align: justify;
 	font-family: "Trebuchet MS";
 	font-size: large;
+	padding-top: 2em;
+	color: white;
 }
