@@ -9,7 +9,8 @@
 
 .profilePic	{
 	width: 200px;
-	display: inline;
+	margin-right: 60%;
+	margin-left: 40%;
 }
 
 h1 {
